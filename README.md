@@ -3,15 +3,15 @@ kavini9/kavini9 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavini9&label=Profile%20views&color=0e75b6&style=flat" alt="kavini9" /> </p>
-<h1 align="left">Hello, there!</h1>
+<h1 align="left">😊 Hello, there!</h1>
 
-<p align="left">I am Kavini Weerasinghe. An aspiring programmer based in Finland with an educational background in electrical engineering. With a knack for problem-solving and a passion for learning, I’m on a mission to trade circuits for code. Can’t wait to see where this journey takes me!
+<p align="left">I am Kavini Weerasinghe. An aspiring software engineer based in Finland with an educational background in electrical engineering. With a knack for problem-solving and a passion for learning, I’m on a mission to switch from circuits to code.
 </p>
 
 - 🌱 I’m currently studying at **[Hive Helsinki](https://www.hive.fi/)**.
-- 👀 My streams of interest in software engineering: Embedded systems & Machine learning 
+- 👀 Streams of interest in software engineering: Embedded systems & Machine learning 
 - 📫 Reach me at: **kavini.w.weerasinghe@gmail.com**
-- ⚡ Fun fact:  I find every object and phenomena in the sky so fascinating (Stares in awe for hours).🌌🪐🌘🌤️⛈️🎈🪁🛰️🛸
+- ⚡ Fun fact:  I find every object and phenomena in the sky so fascinating (Could stare in awe for hours).🌌🪐🌘🌤️⛈️🎈🪁🛰️🛸
 
 
 <h3 align="left">Connect with me:</h3>
