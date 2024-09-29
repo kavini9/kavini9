@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 Currently studying coding at **[Hive Helsinki](https://www.hive.fi/)**.
 - 🚀 Streams of interest in software engineering: Embedded systems & Machine learning 
 - 📧 Reach me at: **kavini.w.weerasinghe@gmail.com**
-- 👻 Fun fact:  My name sounds "my coffee" in Finnish (though the "h" is missing)!☕️🤎
+- 👻 Fun fact:  My name sounds "my coffee" in Finnish (though the "h" is missing)!☕️
 
 
 <h3 align="left">Connect with me:</h3>
