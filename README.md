@@ -9,11 +9,11 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 - 🌱 I’m currently studying at **[Hive Helsinki](https://www.hive.fi/)**.
-- 👀 Streams of interest in software engineering: Embedded systems & Machine learning 
-- 📫 Reach me at: **kavini.w.weerasinghe@gmail.com**
-- ⚡ Fun fact:  I find every object and phenomena in the sky so fascinating (Could stare in awe for hours).🌌🪐🌘🌤️⛈️🎈🪁🛰️🛸
+- 🚀 Streams of interest in software engineering: Embedded systems & Machine learning 
+- 📧 Reach me at: **kavini.w.weerasinghe@gmail.com**
+- ⚡ Fun fact:  My name sounds "my coffee" in Finnish (though the "h" is missing)!☕️
 
-
+q
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kwweerasinghe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kwweerasinghe/" height="30" width="40" /></a>
