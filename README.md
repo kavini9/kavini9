@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 - 🌱 Currently studying coding at **[Hive Helsinki](https://www.hive.fi/)**.
-- 🚀 Streams of interest in software engineering: Embedded systems & Machine learning 
+- 🚀 Streams of interest in software engineering: Embedded systems 
 - 📧 Reach me at: **kavini.w.weerasinghe@gmail.com**
 - 👻 Fun fact:  My name sounds "my coffee" in Finnish (though the "h" is missing)!☕️
 
