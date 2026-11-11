@@ -37,6 +37,12 @@ I'm particularly interested in embedded software development, and hardware-softw
 | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | [Docker Infrastructure Orchestrator](https://github.com/kavini9/My42_inception) | Multi-container infrastructure built with Docker, deploying and managing interconnected services in an isolated environment. |
 
+### Full-Stack Development
+
+| Project | Description |
+| ------- | ----------- |
+| [PongHub](https://github.com/mikhailbish/ft_transcendence) | Full-stack web application featuring real-time multiplayer Pong, user authentication and interactive gameplay. |
+
 ---
 
 ## Technical Skills
